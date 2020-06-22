@@ -1,0 +1,2 @@
+INFO    2020-06-22 16:05:18,082 [pool-1-thread-1] com.w2a.cucumber.zoho.steps.BaseSteps  - Config properties file loaded
+INFO    2020-06-22 16:05:18,087 [pool-1-thread-2] com.w2a.cucumber.zoho.steps.BaseSteps  - Config properties file loaded
